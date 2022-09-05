@@ -11,11 +11,11 @@ Códigos feitos seguindo os passos do curso/playlist de Curso Primeiros passos c
 
 * Aplicações utilizadas:
 
-- Intellij
-- Docker
-- Postman
-- Minikube
-- Panache, Hibernate, Transações e Devservices
+1. Intellij
+2. Docker
+3. Postman
+4. Minikube
+5. Panache, Hibernate, Transações e Devservices
 
 ## Screens:
 
